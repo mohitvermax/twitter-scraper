@@ -8,7 +8,7 @@ This project is a web scraper that logs into Twitter, extracts the top 5 trendin
 
 Watch the demo video to see the project in action:
 
-[![Watch the demo](https://drive.google.com/file/d/1bSzeKSiwhvDrrVPMrbRv6CIu-uwy9qC-/preview)
+click [here to watch the demo video](https://drive.google.com/file/d/1bSzeKSiwhvDrrVPMrbRv6CIu-uwy9qC-/preview)
 
 ## Features
 
